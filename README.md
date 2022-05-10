@@ -5,4 +5,4 @@
 - 📫 How to reach me "wanghung07@gmail.com"
 
 
-[![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonthehung)](https://github.com/anuraghazra/github-readme-stats)
+[![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonthehung)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
