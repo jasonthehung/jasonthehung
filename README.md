@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hung Wang (Jason)</h1>
 <h3 align="center">I’m studying for my master’s degree in Information Technology in Uppsala University.</h3>
 
-- 🔭 I’m currently working on [zk-RECs](https://github.com/jasonthehung/zk-recs)
+- 🔭 [Portfolio]([https://github.com/jasonthehung/zk-recs](https://shiny-cranachan-2d7824.netlify.app/))
 
 - 🌱 I’m currently learning **React, WebSocket, JS, TS and Java.**
 
