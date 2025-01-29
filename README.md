@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **wanghung07@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1P6OeJ_h5dzbxnsjuk2ghkCAsrEefPMWm/view?usp=sharing](https://drive.google.com/file/d/1vW8N7frWdwd2_3Zj41seD_PJVaaBFIp9/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1P6OeJ_h5dzbxnsjuk2ghkCAsrEefPMWm/view?usp=sharing](...)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
