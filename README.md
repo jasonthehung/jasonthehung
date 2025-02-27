@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hung Wang (Jason)</h1>
-<h3 align="center">I’m studying for my master’s degree in Information Technology in Uppsala University.</h3>
+<h3 align="center">Senior Engineer @ AUO | Master of Science in Computer Science</h3>
 
-- 🔭 [PORTFOLIO](https://shiny-cranachan-2d7824.netlify.app/)
-
-- 🌱 I’m currently learning **React, WebSocket, JS, TS and Java.**
+- 🔭 [LINKEDIN](https://www.linkedin.com/in/jasonthehung/)
 
 - 📫 How to reach me **wanghung07@gmail.com**
-
-- 📄 Know about my experiences [Link](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/hung-wang/08ed3953-bc69-4e50-912c-19ab51cefbc3?view=html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
