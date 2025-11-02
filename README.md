@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hung Wang (Jason)</h1>
 <h3 align="center">Integration Engineer @ Ericsson | Master of Science in Computer Science</h3>
 
-- 🔭 [LINKEDIN](https://www.linkedin.com/in/jasonthehung/)
+- 🔭 [LINKEDIN](https://www.linkedin.com/in/jaisonthehung/)
 
 - 📫 How to reach me **wanghung07@gmail.com**
 
